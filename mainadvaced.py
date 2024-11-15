@@ -11,8 +11,8 @@ import msvcrt
 import win32com.client
 
 # Configuration
-webhook_url = "https://discord.com/api/webhooks/1287034526006247546/TBMen9EyrkGGvKzlsGWELZCFAq0dU9VECk2tFDmZkQ8AIalg-xT7asVQvmKr0B_PZ4-7"
-user_id = 1193811309767184439
+webhook_url = ""
+user_id = 
 website_url = "https://election.adaderana.lk/general-election-2024/index.php"
 base_url = "https://election.adaderana.lk/general-election-2024/"
 
