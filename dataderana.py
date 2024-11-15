@@ -7,8 +7,8 @@ import time
 # Configuration
 website_url = "https://election.adaderana.lk/general-election-2024/index.php"
 base_url = "https://election.adaderana.lk/general-election-2024/"
-webhook_url = "https://discord.com/api/webhooks/1287034526006247546/TBMen9EyrkGGvKzlsGWELZCFAq0dU9VECk2tFDmZkQ8AIalg-xT7asVQvmKr0B_PZ4-7"
-role_id = "1287032549733957695"
+webhook_url = ""
+role_id = ""
 
 # Map of site names to JSON field names
 party_map = {
